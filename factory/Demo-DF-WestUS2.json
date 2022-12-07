@@ -1,0 +1,9 @@
+{
+	"name": "Demo-DF-WestUS2",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "759967d3-853a-4544-9e4f-7e08252afc87",
+		"tenantId": "c3027947-868f-42af-bb72-da2e1840de3a"
+	}
+}
